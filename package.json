@@ -1,0 +1,8 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/k1a11220/movieql.git",
+  "author": "Beomsoo <44296964+k1a11220@users.noreply.github.com>",
+  "license": "MIT"
+}
